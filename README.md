@@ -1,6 +1,6 @@
-# school_management_system
+# School Management System
 
-A new Flutter application.
+This is a light-weight multi-school management android and ios application system which i am starting in 6:34 PM 11/26/2020.
 
 ## Getting Started
 
